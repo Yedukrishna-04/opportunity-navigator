@@ -218,19 +218,20 @@ If the API key is unavailable, the application automatically switches to a deter
 
 ### Login
 
-> *(Add Screenshot Here)*
+![Login](./screenshots/login.png)
 
 ---
 
 ### Dashboard
 
-> *(Add Screenshot Here)*
+![Dashboard](./screenshots/dashboard.png)
+
 
 ---
 
 ### Student Cases
 
-> *(Add Screenshot Here)*
+![Student Cases](./screenshots/student-cases.png)
 
 ---
 
